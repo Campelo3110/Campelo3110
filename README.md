@@ -44,9 +44,7 @@ Apaixonado por criar soluções tecnológicas que fazem a diferença, adoro tran
 
 ## 📊 Estatísticas do GitHub
 
-![Campelo3110's GitHub stats](https://github-readme-stats.vercel.app/api?username=Campelo3110&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Campelo3110&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Campelo3110's GitHub stats](https://github-readme-stats.vercel.app/api?username=Campelo3110&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Campelo3110&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
