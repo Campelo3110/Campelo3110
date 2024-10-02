@@ -28,17 +28,13 @@ Apaixonado por criar soluções tecnológicas que fazem a diferença, adoro tran
 
 ## 🚀 Projetos em destaque
 
-- **[Lâmpada Interativa](link-para-o-projeto)** - Uma lâmpada que acende e apaga com um clique. Feita com HTML e CSS.
-  - **Tecnologias:** HTML, CSS
-  - ![Demo](link-para-imagem-ou-gif)
+- **[Eco Walt](https://github.com/Campelo3110/EcoWatt)** - Jogue e economize energia! Desafios divertidos e recompensas te ajudam a criar hábitos mais sustentáveis!
+  - **Tecnologias:** HTML, CSS, JS
+  - ![Demo](https://imgur.com/iVkY6SQ.gif)
   
-- **[Barra de Navegação Animada](link-para-o-projeto)** - Uma barra lateral de navegação que se expande ao passar o mouse. 
+- **[Conhecendo São Paulo](https://github.com/Campelo3110/Conhecendo-10-cidades-de-Sao-Paulo/tree/main)** - É um guia interativo que destaca os pontos turísticos mais marcantes da cidade de São Paulo e de algumas de suas cidades vizinhas. 
   - **Tecnologias:** HTML, CSS
-  - ![Demo](link-para-imagem-ou-gif)
-
-- **[Página de Pontos Turísticos de São Paulo](link-para-o-projeto)** - Uma página web destacando os principais pontos turísticos de São Paulo.
-  - **Tecnologias:** HTML, CSS
-  - ![Demo](link-para-imagem-ou-gif)
+  - ![Demo](https://raw.githubusercontent.com/Campelo3110/Conhecendo-10-cidades-de-Sao-Paulo/main/img/conhecendo.png)
 
 ---
 
