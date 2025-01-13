@@ -30,7 +30,7 @@ Apaixonado por criar soluções tecnológicas que fazem a diferença, adoro tran
 
 - **[Arcade Time](https://github.com/Campelo3110/ArcadeTime)** - Arcade Time, onde clássicos ganham vida com um toque moderno.
   - **Tecnologias:** HTML, CSS, JS
-  - ![Demo](https://imgur.com/FxD2AwE.gif)
+  - [![mobm9pe-Imgur.gif](https://i.postimg.cc/SNjLXJXZ/mobm9pe-Imgur.gif)](https://postimg.cc/F75k8FVc)
   
 - **[Eco Walt](https://github.com/Campelo3110/EcoWatt)** - Jogue e economize energia! Desafios divertidos e recompensas te ajudam a criar hábitos mais sustentáveis!
   - **Tecnologias:** HTML, CSS, JS
